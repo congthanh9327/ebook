@@ -1,0 +1,2 @@
+DatabaseHelper databaseHelper = new DatabaseHelper(this.dbConnection,PROCEDURE trong database);
+databaseHelper.getResultFromDatabase(listInParam, listOutParam);
